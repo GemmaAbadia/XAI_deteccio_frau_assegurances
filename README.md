@@ -170,7 +170,9 @@ Utilitzat per:
 
 ---
 
-# Autor
+# Autora
+
+Gemma Abadia Obis
 
 Treball Final de Màster (TFM)
 
