@@ -4,6 +4,8 @@ Aquest repositori conté el desenvolupament complet del Treball Final de Màster
 
 L’objectiu principal del projecte és comparar diferents models predictius, tant interpretables com black-box, i analitzar com tècniques XAI com SHAP i Anchors poden millorar la transparència i interpretabilitat de les prediccions.
 
+Per simplicitat i traçabilitat acadèmica, les funcions auxiliars i el codi experimental s’han mantingut integrats dins dels notebooks principals.
+
 ---
 
 # Estructura del projecte
@@ -19,10 +21,6 @@ projecte_tfm/
 ├── notebooks/
 │   ├── 01_preparacio_i_preprocessament_dades.ipynb
 │   └── 02_modelatge_predictiu_i_xai.ipynb
-│
-├── models/
-│
-├── figures/
 │
 ├── requirements.txt
 │
